@@ -1,7 +1,7 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
 <h3>AIM:To perform Matrix Multiplication using Transposition using shared memory.
 </h3>
-<h3>NAME: VAISAHLI BALAMURUGAN</h3>
+<h3>NAME: VAISHALI BALAMURUGAN</h3>
 <h3>REGISTER NO :212222230164</h3>
 <h3>EX. NO : 6</h3>
 <h3>DATE</h3>
